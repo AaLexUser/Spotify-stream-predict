@@ -51,3 +51,5 @@ coverage.xml
 
 # MacOS
 .DS_Store
+
+catboost_info
